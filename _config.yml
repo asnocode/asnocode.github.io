@@ -1,11 +1,11 @@
 # Site settings
-title: Soumyadeep Das 
+title: asnocode.com
 subtitle: Homepage
-tagline: I am Soumyadeep Das, an incoming PhD Student at ICRAR/UWA Perth, interested in Astrophysics, AGN, Interferometry.
-email: soumyadeep.das.m44@gmail.com
-description: I am Soumyadeep Das, an incoming PhD Student at ICRAR/UWA Perth. I am interested in multiwavelength AGN research, AGN life-cycle, restarts, and the host environment. 
+tagline: asnocode.com - Cloud & DevOps
+email: cloud@asnocode.com
+description: Welcome to asnocode.com. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://soumyadeepdas.gitlab.io" # the base hostname & protocol for your site
+url: "https://asnocode.gitlab.io" # the base hostname & protocol for your site
 logo: assets/images/favicon.png
 image: assets/images/og-pic.jpg
 
@@ -23,7 +23,7 @@ collections:
 myversion: 4.5.0
 
 author:
-    name: Soumyadeep Das
+    name: asnocode.com
     avatar : assets/images/profile_picture.png
     avatar-webp: assets/images/profile_picture.webp
     avatar-thumb: assets/images/profile_picture-thumb.jpg
