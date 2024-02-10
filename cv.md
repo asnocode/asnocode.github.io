@@ -10,7 +10,7 @@ redirect_from:
   - portfolio/
 ---
 
-<p  style="font-size: smaller;" ><a  href="{{ 'assets/docs/SoumyadeepDasCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;View in PDF Format</a></p>
+<p  style="font-size: smaller;" ><a  href="{{ 'assets/docs/Resume-DevOps-K_Vorobjova-Grudinska.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;View in PDF Format</a></p>
 <a name="top"></a>
 <h2 style="color:#d32f2f;">Education</h2> 
 <b>Indian Institute of Technology (BHU), Varanasi (India)</b> <br>
