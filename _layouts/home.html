@@ -45,10 +45,10 @@
               <div class="overlay-inside" >
                 <center>
                           <hr class="banner-line">
-                      <p class="banner-head">SOUMYADEEP DAS</p>
+                      <p class="banner-head">asnocode.com</p>
                           <hr class="banner-line">
                           <br>
-                      <p class="banner-body">ASTROPHYSICS. AGN.<br>INTERFEROMETRY.</p>
+                      <p class="banner-body">CLOUD. IAC.<br>DEVOPS.</p>
                               <ul class="banner-icons">
                               <li><p class="banner-body banner-icon-p"><a href="{{ site.author.linkedin }}" class="icon fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="Linkedin"></a></p></li>
                               <li><p class="banner-body banner-icon-p"><a href="{{ site.author.github }}" class="icon fa-github" target="_blank" rel="noopener noreferrer"  aria-label="Github"></a></p></li>
@@ -73,7 +73,7 @@
                 {% include header.html %}
                 {% include banner.html %} 
                 <div style="margin-bottom: 30px; align-items: center;text-align: center;align-self: center;">
-                  <a style="color: #707070; text-align: center;  font-size: 14pt;" href="{{ site.url | absolute_url }}/somethingcool/" ><i>When the moon hits your eye like a big pizza pie... thats amore!</i></a>
+                  <a style="color: #707070; text-align: center;  font-size: 14pt;" href="{{ site.url | absolute_url }}/somethingcool/" ><i>In the world of cloud computing, who am I, oh God?!</i></a>
                 </div> 
                 
                 {{ content }}
@@ -97,14 +97,14 @@
           if (performance.navigation.type == 1) {
             console.info( "This page is reloaded" );
             console.log('HitCounter');
-                let targetUrl = "https://soumyadeepdas.gitlab.io";
+                let targetUrl = "https://asnocode.gitlab.io";
                 $.ajax('https://hitcounter.pythonanywhere.com/nocount',{
                     data:{url: targetUrl},
                 }).then(count => document.getElementById("mycounter").textContent=count);
           } else {
             console.info( "This page is not reloaded");
             console.log('HitCounter');
-                let targetUrl = "https://soumyadeepdas.gitlab.io";
+                let targetUrl = "https://asnocode.gitlab.io";
                 $.ajax('https://hitcounter.pythonanywhere.com/count',{
                     data:{url: targetUrl},
                 }).then(count => document.getElementById("mycounter").textContent=count);
