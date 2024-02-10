@@ -54,36 +54,6 @@ page-level: homepage
 	</header>
 	<div class="features">
 		<article>
-			<!-- <span class="icon fa-diamond"></span> -->
-			<span style="padding-right:15px; display:inline-block;">
-                <img alt="Active Galactic Nuclei" src="assets/images/ico-agn-thumb.png" data-src="assets/images/ico-agn.png"   class="lazyload" width="80" />
-			</span>
-			<div class="content">
-				<h3>Active Galactic Nuclei</h3>
-				<p>Radio galaxy evolution. AGN restart. AGN-Galaxy relations. Unified theory.</p>
-			</div>
-		</article>
-		<article>
-			<!-- <span class="icon fa-paper-plane"></span> -->
-			<span style="padding-right:15px; display:inline-block;">
-            <img alt="Amateur Astronomy and Astrophotohraphy" src="assets/images/ico-telescope-thumb.png" data-src="assets/images/ico-telescope.png"   class="lazyload" width="80" />
-			</span>
-			<div class="content">
-				<h3>Amateur Astronomy</h3>
-				<p>Stargazing. Starlores. Messier Hunting. Astrophotohraphy.</p>
-			</div>
-		</article>
-		<article>
-			<!-- <span class="icon fa-signal"></span> -->
-			<span style="padding-right:15px; display:inline-block;">
-                <img alt="Radio Astronomy" src="assets/images/ico-radio-thumb.png" data-src="assets/images/ico-radio.png"   class="lazyload" width="80" />
-			</span>
-			<div class="content">
-				<h3>Radio Astronomy</h3>
-				<p>Radio Interferometry. Calibrations and Imaging. Data Analysis.</p>
-			</div>
-		</article>
-		<article>
 			<!-- <span class="icon fa-rocket"></span> -->
 			<span style="padding-right:15px; display:inline-block;">
             <img alt="Programming" src="assets/images/ico-py-thumb.png" data-src="assets/images/ico-py.png"   class="lazyload" width="80" />
@@ -99,7 +69,7 @@ page-level: homepage
 			</span>
 			<div class="content">
 				<h3>Miscellaneous</h3>
-				<p>Digital Design. Rise of Nations. DoTA2. Memes.</p>
+				<p>Infrastructure As Code</p>
 			</div>
 		</article>
 	</div>
