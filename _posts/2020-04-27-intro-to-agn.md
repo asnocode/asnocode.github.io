@@ -11,7 +11,7 @@ image-thumb: assets/images/posts/2020-04-27-intro-to-agn/banner-thumb.jpg
 image-alt: Future of the Cloud. 10 Trends Shaping 2024 and Beyond. 
 image-source: Pulumi.
 permalink: /projects/2020/04/intro-to-agn/
-tags: cloud devops iac pulumi
+tags: cloud devops iac trends pulumi
 page-level: postpage
 status: publ 
 sitemap: false
