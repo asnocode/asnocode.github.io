@@ -29,7 +29,7 @@ According to Gartner, cloud adoption will move from being a technology disruptor
 According to McKinsey & Company's "In search of cloud value" report:
 Cloud enables businesses to innovate, which is worth more than x5 what is possible by simply reducing costs.</br> 
 The anticipated increase in EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) attributable to cloud adoption is projected to range between 20% and 30% by the year 2030, but it's expected to vary across different sectors.</br> 
-Asian companies have the most to gain from the cloud, with $1.2 trillion in EBITDA. American institutions stand to capture about $1.1 trillion in cloud value, while European institutions are at $773 billion due to regulatory constraints.</br> 
+Asian companies have the most to gain from the cloud, with $1.2 trillion in EBITDA. American institutions stand to capture about $1.1 trillion in cloud value, while European institutions are at $773 billion due to regulatory constraints. 
 
 ### 2. Large Organizations with Multi-Cloud and Hybrid Environments
 Multi-cloud and Hybrid (mixing cloud and on-premise infrastructure) environments are a trend that is here to stay. According to Forbes, by 2024, 85% of large-sized companies will have a multi-cloud strategy. Organizations recognize the importance of leveraging multiple cloud providers and on-premises infrastructure to optimize performance, enhance redundancy, and mitigate risks. 
