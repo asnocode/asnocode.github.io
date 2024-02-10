@@ -60,7 +60,7 @@ page-level: homepage
 			</span>
 			<div class="content">
 				<h3>Programming</h3>
-				<p>C. Matlab. FORTRAN. Python. Bash. AIPS. CASA. Android.</p>
+				<p>C. Python. Bash. Powershell. Java. </p>
 			</div>
 		</article>
 		<article>
@@ -68,8 +68,8 @@ page-level: homepage
 			<span style="padding-right:15px; display:inline-block;"><img alt="Miscellaneous" src="assets/images/ico-misc-thumb.png" data-src="assets/images/ico-misc.png"   class="lazyload" width="80" />
 			</span>
 			<div class="content">
-				<h3>Miscellaneous</h3>
-				<p>Infrastructure As Code</p>
+				<h3>Infrastructure As Code</h3>
+				<p>Miscellaneous</p>
 			</div>
 		</article>
 	</div>
@@ -93,9 +93,10 @@ page-level: homepage
 	</span>
 	<div class="content">
 		<p style="font-size: 90%;"><b>Graduated.</b><br>
-			Dual Degree in Engineering Physics (B.Tech and M.Tech.)<br>
-		Indian Institute of Technology (BHU), Varanasi.<br>
-		Banaras Hindu University Campus, Uttar Pradesh 221005. India.
+			Higher professional qualification of Software Engineer (BSc, Computer Science)<br>
+		 EKA University of Applied Sciences, Riga. Latvia<br>
+			Professional qualification of Computer System and Network Administrator (AS, Network and System Administration)<br>
+		College of Law (JK), Riga. Latvia.
 	</p>
 	</div>
 </article>
