@@ -1,105 +1,66 @@
 ---
-title : LaTex IDD/Masters/PHD Thesis Template for Indian Institute of Technology (BHU) Varanasi 
-short-title : IITBHU Latex Thesis
-description: Unofficial PhD and Masters Thesis Template in LaTeX for IIT-BHU Varanasi. Forked from CUED PhD Thesis template by Soumyadeep Das according to insitute guidelines.
-Date :  2020-05-01
-author: Soumyadeep Das
+title : Ansible Collection community.sap_install by sap-linuxlab.
+short-title : SAP Install Ansible Collection.
+description: This Ansible Collection executes various SAP Software installations and configuration tasks for running various SAP solutions and deployment scenarios on Linux operating systems (RHEL or SLES).
+Date :  2024-02-10
+author: sap-linuxlab
 layout: project-post
-image: assets/images/posts/2020-05-01-iitbhu-thesis-template/banner.jpg
+image: assets/images/posts/2020-05-01-iitbhu-thesis-template/banner.png
 image-webp: assets/images/posts/2020-05-01-iitbhu-thesis-template/banner.webp
 image-thumb: assets/images/posts/2020-05-01-iitbhu-thesis-template/banner-thumb.jpg
-image-alt: Unofficial IITBHU thesis template in LaTex.
-image-source: Source - club.6parkbbs.com
+image-alt: SAP Install Ansible Collection.
+image-source: Source - medium.com
 permalink: /posts/2020/05/iitbhu-thesis-template/
 page-level: repopage
 status: publ 
 ---
  
-An unofficial thesis template in LaTex, forked from [CUED PhD Thesis template](https://github.com/kks32/phd-thesis-template) by [Krishna Kumar](https://github.com/kks32). Adapted according to insitute guidelines by Soumyadeep Das, IDD, Dept. of Physics, Batch of 2014~2019.
+# community.sap_install Ansible Collection
+
+![Ansible Lint](https://github.com/sap-linuxlab/community.sap_install/actions/workflows/ansible-lint.yml/badge.svg?branch=main)
+
+This Ansible Collection executes various SAP Software installations and configuration tasks for running various SAP solutions and deployment scenarios on Linux operating systems (RHEL or SLES).
+
+This includes handlers for SAP HANA database lifecycle manager (HDBLCM) and SAP Software Provisioning Manager (SWPM), and can be combined with other Ansible Collections to provide end-to-end automation _(e.g. provision, download, install, operations)_.
 
 
 <!---
-[![Build Status](https://api.travis-ci.org/lordparthurnaax/thesis-template-iitbhu.svg)](https://travis-ci.org/lordparthurnaax/thesis-template-iitbhu)
+[![Build Status](https://api.travis-ci.org/sap-linuxlab/community.sap_install.svg)](https://travis-ci.org/sap-linuxlab/community.sap_install)
 -->
 ### External Repositoriess
 <ul class="actions" style="margin-bottom: 5px; padding-bottom: 5px;">
-    <li style="height: 18; vertical-align: top;"><a href="https://github.com/lordparthurnaax/thesis-template-iitbhu" style="font-size: small;" class="tag_marker"> <span>github:thesis-template-iitbhu</span></a></li>
-    <li><iframe src="https://ghbtns.com/github-btn.html?user=lordparthurnaax&repo=thesis-template-iitbhu&type=star&count=true" frameborder="0" scrolling="0" width="78" height="20" title="GitHub"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=lordparthurnaax&repo=thesis-template-iitbhu&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="88" height="20" title="GitHub"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=lordparthurnaax&repo=thesis-template-iitbhu&type=fork&count=true" frameborder="0" scrolling="0" width="78" height="20" title="GitHub"></iframe></li>
-</ul>
-<ul class="actions" style="margin-top: 0; padding-top: 0;">
-    <li style="height: 18; vertical-align: top;"><a style="cursor: text; color: #111;" > <span>Mirrors: </span></a></li>
-    <li style="margin-right: 0px; padding-right: 0px;"><a style="margin-right: 0px; padding-right: 0px;" href="https://gitlab.com/lordparthurnaax/thesis-template-iitbhu" class="tag_btn"><span>Gitlab</span></a></li>
-    <li><a style="margin-left: 0px; padding-left: 0px;" href="https://www.overleaf.com/read/qpdsntyhnhtq" class="tag_btn"><span>Overleaf</span></a></li>
+    <li style="height: 18; vertical-align: top;"><a href="https://github.com/sap-linuxlab/community.sap_install" style="font-size: small;" class="tag_marker"> <span>github:sap-linuxlab/community.sap_install</span></a></li>
+    <li><iframe src="https://ghbtns.com/github-btn.html?user=sap-linuxlab&repo=community.sap_install&type=star&count=true" frameborder="0" scrolling="0" width="78" height="20" title="GitHub"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=sap-linuxlab&repo=community.sap_install&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="88" height="20" title="GitHub"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=user=sap-linuxlab&repo=community.sap_install&type=fork&count=true" frameborder="0" scrolling="0" width="78" height="20" title="GitHub"></iframe></li>
 </ul>
 
 
-## Features
+**Examples of verified installations include:**
 
-*   Written in accordance to [Revised Specification and Information Regarding the Preparation of Thesis](https://repo.iitbhu.ac.in/db/2016/ir-2016-390/Specification%20and%20information%20regarding%20the%20preparation%20of%20thesis.pdf), dated 29th August, 2016.
+- SAP HANA 2.0 (SPS04+) with setup as Scale-Up, Scale-Out, High Availability
+- Other SAP installation activities; such as System Rename, System Copy Export, SAP Solution Manager and SAP Web Dispatcher
 
-*   Well-suited for sending to major institutions all over the world.
 
-*   Supports LaTeX, XeLaTeX and LuaLaTeX. Fully compatible for online IDEs.
+**Please read the [full documentation](/docs#readme) for how-to guidance, requirements, and all other details. Summary documentation is below:**
 
-*   Completely modular, highly intuitive, and extremely flexible.
 
-*   Adaptive Title Page: Title page adapts to title length. Title page with the institute crest.
+## Contents
 
-*   Easily editable certificates, declaration and copyright transfer pages.
+Within this Ansible Collection, there are various Ansible Roles and no custom Ansible Modules.
 
-*   Recognise and inflate NASA-ADS Abbreviations used in bibliography, for thesis in astrophysics.
+### Ansible Roles
 
-*   Print / On-line version: Different layout and hyper-referencing styles.
+| Name | Summary |
+| :--- | :--- |
+| [sap_anydb_install_oracle](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_anydb_install_oracle) | install Oracle DB 19.x for SAP |
+| [sap_general_preconfigure](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_general_preconfigure) | configure general OS settings for SAP software |
+| [sap_ha_install_hana_hsr](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_ha_install_hana_hsr) | install SAP HANA System Replication |
+| [sap_ha_pacemaker_cluster](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_ha_pacemaker_cluster) | install and configure pacemaker and SAP resources |
+| [sap_hana_install](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_hana_install) | install SAP HANA via HDBLCM |
+| [sap_hana_preconfigure](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_hana_preconfigure) | configure settings for SAP HANA database server |
+| [sap_hostagent](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_hostagent) | install SAP Host Agent |
+| [sap_install_media_detect](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_install_media_detect) | detect and extract SAP Software installation media |
+| [sap_maintain_etc_hosts](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_maintain_etc_hosts) | maintain the /etc/hosts file of an SAP software host |
+| [sap_netweaver_preconfigure](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_netweaver_preconfigure) | configure settings for SAP NetWeaver application server |
+| [sap_storage_setup](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_storage_setup) | configure storage for SAP HANA, with LVM partitions and XFS filesystem |
+| [sap_swpm](https://github.com/sap-linuxlab/community.sap_install/tree/main/roles/sap_swpm) | install SAP Software via SWPM |
 
-*   Pre-defined and custom fonts (Times/ Fourier / Latin Modern) with math support also available. Also supports system fonts (XeLaTeX).
-
-*   Pre-defined and custom bibliography style support (authoryear / numbered / custom)
-
-*   Custom page styles: 3 Different Header / Footer styles, with pre-defined and custom margin sizes.
-
-*   Separate abstract required during final submission can be generated by compiling the `abstract-standalone.tex` file.
-
-*   Option to generate only specific chapters and references without the frontmatter and title page. Useful for review and corrections.
-
-*   Draft mode: Draft water mark, timestamp, version numbering and line numbering.
-
---------------------------------------------------------------------------------
-
-## Building your thesis
-
-### Using an IDE (such as TexStudio/TexMaker)
-
-When starting a new session, compile and run (order specified below) `thesis-template.tex` first. After this, running/building any of the individual tex files you are currently working would render the complete document.
-
-Set the following build order on your IDE for the desired results.
-
-    pdflatex
-    bibtex
-    pdflatex
-    pdflatex
-    view-pdf-internal
-
-Confused on what to use? [This](https://tex.stackexchange.com/questions/339/latex-editors-ideshttps://tex.stackexchange.com/questions/339/latex-editors-ides) may help!
-
-### Online, using Overleaf, ShareLatex, or Authorea
-
-Set `thesis-template.tex` as the primary document and compile.
-
-### Using command line interface (Unix/Linux/Windows)
-
-Run the following codes on your terminal in succession (pdflatex):
-
-    pdflatex filename.tex
-    bibtex filename.aux
-    pdflatex filename.tex
-    pdflatex filename.tex
-    xdg-open filename.pdf
-
-## Contact/Contribute
-
-Report issues [here](https://github.com/lordparthurnaax/thesis-template-iitbhu/issues), or send me an [email](mailto:soumyadeep.das.phy14@iitbhu.ac.in?subject=[GitHub]%20IIT%20BHU%20Thesis) to contribute.
-
-<ul class="actions">
-<li>Find me on Github: </li>
-<li><iframe src="https://ghbtns.com/github-btn.html?user=lordparthurnaax&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe></li>
-</ul>
