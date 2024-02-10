@@ -26,8 +26,12 @@ page-level: mainpage
     <li style="height: 18; vertical-align: top;"><a href="https://github.com/asnocode/automation" style="font-size: small;" class="tag_marker"> <span>github:asnocode/automation</span></a></li>
     <li><iframe src="https://ghbtns.com/github-btn.html?user=asnocode&repo=automation&type=star&count=true" frameborder="0" scrolling="0" width="78" height="20" title="GitHub"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=asnocode&repo=automation&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="88" height="20" title="GitHub"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=asnocode&repo=automation&type=fork&count=true" frameborder="0" scrolling="0" width="78" height="20" title="GitHub"></iframe></li>
 </ul>
+<ul class="actions" style="margin-bottom: 5px; padding-bottom: 5px;">
+    <li style="height: 18; vertical-align: top;"><a href="https://github.com/asnocode/hana_update" style="font-size: small;" class="tag_marker"> <span>github:asnocode/hana_update</span></a></li>
+    <li><iframe src="https://ghbtns.com/github-btn.html?user=asnocode&repo=hana_update&type=star&count=true" frameborder="0" scrolling="0" width="78" height="20" title="GitHub"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=asnocode&repo=hana_update&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="88" height="20" title="GitHub"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=asnocode&repo=hana_update&type=fork&count=true" frameborder="0" scrolling="0" width="78" height="20" title="GitHub"></iframe></li>
+</ul>
 <ul class="actions" style="margin-top: 0; padding-top: 0;">
-    <li style="height: 18; vertical-align: top;"><a style="cursor: text; color: #111;" > <span>Azure DevOps Project (Updated more frequently): </span></a></li>
+    <li style="height: 18; vertical-align: top;"><a style="cursor: text; color: #111;" > <span><b>Azure DevOps Project</b> (Updated more frequently): </span></a></li>
     <li style="margin-right: 0px; padding-right: 0px;"><a style="margin-right: 0px; padding-right: 0px;" href="https://dev.azure.com/asnocode/AsNoCode" class="tag_btn"><span>dev.azure.com/asnocode/AsNoCode</span></a></li>
 </ul>
 
