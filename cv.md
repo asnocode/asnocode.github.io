@@ -45,7 +45,6 @@ Associate's degree, Network and System Administration/Administrator (Sep 2017 - 
 <hr style="width:100%"> 
 
 <h2 style="color:#d32f2f;">Experience</h2> 
-<a href="{{ 'research' | absolute_url }}"  class="tag_btn"><span>  </span></a>
 <b> 
 DevOps Engineer</b><br>
 Emergn
