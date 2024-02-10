@@ -47,7 +47,7 @@ Report issues [here](https://github.com/asnocode/asnocode.github.io/issues), or 
 <div  class="posts">
 {% for post in site.projects %}
 <article>
-    <p><a style="color: #999; font-weight: 400;" href="{{ post.url  | absolute_url }}">{{ post.title }}</a></p>
+    <p><br><a style="color: #999; font-weight: 400;" href="{{ post.url  | absolute_url }}">{{ post.title }}</a></p>
             <a href="{{ post.url  | absolute_url }}" class="image">
                 <picture>
                 <source data-srcset="{{ post.image-webp | absolute_url }}" type="image/webp" >
