@@ -95,7 +95,7 @@ page-level: homepage
 		<p style="font-size: 90%;"><b>Graduated.</b><br>
 			Higher professional qualification of Software Engineer (BSc, Computer Science)<br>
 		 EKA University of Applied Sciences, Riga. Latvia<br>
-			Professional qualification of Computer System and Network Administrator (AS, Network and System Administration)<br>
+			Professional qualification of Computer System and Network Administrator (AS, Network Administration)<br>
 		College of Law (JK), Riga. Latvia.
 	</p>
 	</div>
