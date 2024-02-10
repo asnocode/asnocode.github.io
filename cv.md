@@ -32,7 +32,7 @@ Associate's degree, Network and System Administration/Administrator (Sep 2017 - 
 <b>Cloud Computing</b> - Microsoft Azure, AWS, OpenStack, Red Hat, Oracle, SAP, Virtual Machine, IaaS, PaaS, Cloud Migration.<br>
 <b>Database Administration</b> - Microsoft SQL Server, Azure SQL, Azure SQL Managed Instances, Oracle Database, SAP HANA, Sybase, PowerDesigner, IBM DB2.<br>
 <b>Continuous Integration and Continuous Delivery (CI/CD)</b> - Azure DevOps, Jenkins, GitLab, GitHub Actions, Git, Docker, Azure Pipelines.<br>
-<b>Automation</b> - Cloud, On-Premises, Infra, Platform, Database, CI/CD, Monitoring, SCM, Linux, SAP HANA, Azure Automation, Azure Functions, Azure Monitor, Splunk.
+<b>Automation</b> - Cloud, On-Premises, Infra, Platform, Database, CI/CD, Monitoring, SCM, Linux, SAP HANA, Azure Automation, Azure Functions, Splunk.
 <hr style="width:100%"> 
 
 <h2 style="color:#d32f2f;">Courses and Certifications</h2> 
