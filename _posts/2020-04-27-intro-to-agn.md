@@ -2,12 +2,12 @@
 title: 'Future of the Cloud: 10 Trends Shaping 2024 and Beyond: 10 Trends Shaping 2024 and Beyond'
 short-title : Future of the Cloud: 10 Trends Shaping 2024 and Beyond
 description: Get ready for 2024—the year of Cloud Optimization. Several converging trends will redefine the landscape, driving innovation, efficiency, and scalability for years to come. From Infrastructure as Code (IaC), AI/ML, and #Kubernetes to platform engineering and security practices, let's explore the 10 trends shaping 2024 and beyond.
-date: 2023-12-13
+date: 2020-04-27
 author: asNoCode
 layout: post
-image: assets/images/posts/2020-04-27-intro-to-agn/banner.png
-image-webp: assets/images/posts/2020-04-27-intro-to-agn/banner.webp
-image-thumb: assets/images/posts/2020-04-27-intro-to-agn/banner-thumb.jpg
+image: 
+image-webp: 
+image-thumb: 
 image-alt: 10 Trends Shaping 2024 and Beyond 
 image-source: Pulumi (Source - pulumi.com).
 permalink: /posts/2020/04/intro-to-agn/
@@ -18,34 +18,26 @@ page-level: postpage
 status: beta 
 sitemap: false
 
----
 
-<!-- status - publ, beta -->
+---
 
 ## 10 Trends Shaping 2024 and Beyond
 In 2024, several trends are expected to dominate cloud computing, driving innovation, efficiency, and scalability. From Infrastructure as Code (IaC) to AI/ML and security practices, let's explore the 10 biggest emerging trends:
-
-<!-- <span class="image fit"><img src="" alt="Pulumi" /></span>-->
-
 ### 1. Cloud Will Become a Business Necessity by 2024
 According to Gartner, cloud adoption will move from being a technology disruptor to a necessity for maintaining business competitiveness. In 2024, worldwide end-user spending on public cloud services is forecast to total $679 billion and is projected to exceed $1 trillion in 2027.
-
 ### 2. Large Organizations with Multi-Cloud and Hybrid Environments
 Multi-cloud and Hybrid (mixing cloud and on-premise infrastructure) environments are a trend that is here to stay. According to Forbes, by 2024, 85% of large-sized companies will have a multi-cloud strategy. Organizations recognize the importance of leveraging multiple cloud providers and on-premises infrastructure to optimize performance, enhance redundancy, and mitigate risks. 
 The following trends also relate to this multi-cloud and hybrid approach as companies seek ways to balance flexibility and cost while increasing overall productivity with security and compliance in mind.
-
 ### 3. Infrastructure as Code (IaC) Crucial for Scalability
 IaC in general-purpose languages is gaining prominence as organizations seek to automate and streamline their infrastructure management processes and reduce the divide between application development and cloud infrastructure development. 
 Infrastructure as Code is maturing beyond taming the complexity of the cloud:
-
- Facilitating the adoption and configuration standardization of multi-cloud and hybrid strategies </br> 
- Better integration with multiple cloud providers, like AWS, Azure, and Google Cloud, data stores, and third-party services like Cockroach Labs db, Confluent cloud, Kafka, and more. </br> 
- Deeper validation on parameters that people are passing in, checking all critical components, ensuring they are configured correctly before deployment </br> 
- More efficient resource management </br> 
- Robust security and Policy as Code to enforce security practices, guardrails, compliance, cost policies, and more </br> 
- Intelligent automation, including automated tests and remediation policies </br>
- AI-driven automation and insights </br> 
-
+Facilitating the adoption and configuration standardization of multi-cloud and hybrid strategies </br> 
+Better integration with multiple cloud providers, like AWS, Azure, and Google Cloud, data stores, and third-party services like Cockroach Labs db, Confluent cloud, Kafka, and more. </br> 
+Deeper validation on parameters that people are passing in, checking all critical components, ensuring they are configured correctly before deployment </br> 
+More efficient resource management </br> 
+Robust security and Policy as Code to enforce security practices, guardrails, compliance, cost policies, and more </br> 
+Intelligent automation, including automated tests and remediation policies
+AI-driven automation and insights </br> 
 ### 4. Rise of Security-First (DevSecOps)
 Security is no longer a separate consideration but a top priority in the cloud landscape - integrating security into the DevOps process, known as DevSecOps, will be a key trend in 2024. Organizations will emphasize building security measures in every development lifecycle stage. Policy as Code will be an indispensable pillar in many security aspects: 
 
@@ -98,12 +90,3 @@ Since 72% of US companies struggle to find tech talent, now’s a great time to 
 ### Keeping up with the Future Cloud Trends
 From advanced technologies like AI/ML and Kubernetes to practices like FinOps and Security, the cloud of 2024 is set to redefine best practices for enhanced efficiency, security, and scalability. You may have noticed that many trends overlap, and a holistic view will be crucial for organizations aiming to stay ahead.
 
-<p><div class="image left imgleft" style="align-items: center;" >
-    <picture style="vertical-align: top;">
-            <source data-srcset="{{ 'assets/images/posts/2020-04-27-intro-to-agn/agn_structure.webp' | relative_url }}" type="image/webp" >
-            <source data-srcset="{{ 'assets/images/posts/2020-04-27-intro-to-agn/agn_structure.png' | relative_url }}" type="image/png" > 
-            <img src="{{ 'assets/images/posts/2020-04-27-intro-to-agn/agn_structure-thumb.jpg' | relative_url }}" alt="AGN structure and composition." data-src="{{ 'assets/images/posts/2020-04-27-intro-to-agn/agn_structure.png' | relative_url }}"  class="lazyload" />
-      </picture>    
-        <figcaption>Figure : The future of cloud computing. (Credit: Gartner)</figcaption>
-
-</div>
