@@ -40,9 +40,10 @@ Report issues [here](https://github.com/asnocode/asnocode.github.io/issues), or 
 <li>Find me on Github: </li>
 <li><iframe src="https://ghbtns.com/github-btn.html?user=kristinevog&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe></li>
 </ul>
+<br>
+<br>
 
-
-### External Repositories
+#### External Repositories
 
 <div  class="posts">
 {% for post in site.projects %}
