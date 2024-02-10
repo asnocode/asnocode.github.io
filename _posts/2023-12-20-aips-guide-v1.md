@@ -13,7 +13,7 @@ image-source: DevOps.com.
 permalink: /projects/2020/05/aips-guide-v1/
 tags: devops devsecops trends
 page-level: postpage
-status: beta 
+status: publ 
 sitemap: false
 ---
 
