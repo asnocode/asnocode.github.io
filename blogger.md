@@ -19,7 +19,9 @@ permalink: blogs/
                 </picture> 
       </span>{{ post.content | strip_html | truncatewords: 60 }}&nbsp;<a href="{{ post.url | absolute_url }}">(read more)</a></p>    
       <p><i class="fa fa-calendar"></i>&nbsp;&nbsp;<b>Published on :&nbsp;</b>{{ post.date | date: "%b %-d, %Y" }}</p>
-    </li>    
+    </li> 
+      <br>
       <hr>
+      <br>
   {% endfor %}
 </ul>
