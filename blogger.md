@@ -13,15 +13,13 @@ permalink: blogs/
       <p><span class="image left">
           
           <picture>
-                <source data-srcset="{{ post.image-webp | absolute_url }}" type="image/webp" >
-                <source data-srcset="{{ post.image | absolute_url }}" type="image/jpeg" > 
+                <source data-srcset="{{ post.image-webp | absolute_url }}" type="image/webp" width="606" height="300" >
+                <source data-srcset="{{ post.image | absolute_url }}" type="image/jpeg" width="606" height="300" > 
                 <img src="{{ post.image-thumb | absolute_url }}" alt="{{ post.image-alt }}" data-src="{{ post.image | absolute_url }}"  class="lazyload" />
                 </picture> 
       </span>{{ post.content | strip_html | truncatewords: 60 }}&nbsp;<a href="{{ post.url | absolute_url }}">(read more)</a></p>    
       <p><i class="fa fa-calendar"></i>&nbsp;&nbsp;<b>Published on :&nbsp;</b>{{ post.date | date: "%b %-d, %Y" }}</p>
     </li> 
-      <br>
       <hr>
-      <br>
   {% endfor %}
 </ul>
