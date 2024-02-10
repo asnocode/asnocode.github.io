@@ -35,11 +35,13 @@ Associate's degree, Network and System Administration/Administrator (Sep 2017 - 
 <b>Automation</b> - Cloud, On-Premises, Infrastructure, Platform, Database, IT operations, Cron, CI/CD, Monitoring, SCM, Linux, SAP HANA, Azure Automation, Azure Functions, Azure Monitor, Splunk.
 <hr style="width:100%"> 
 
-<h2 style="color:#d32f2f;">Courses and Academic Background</h2> 
-<b>Background</b> - Synthesis Imaging in Radio Interferometry, First Course in General Relativity. <br>
-<b>Coursework</b> - Classical and Quantum Mechanics, Relativistic Electrodynamics, Magnetohydrodynamics, Linear Algebra, Mathematical and
-Numerical Methods, Introduction to Astrophysics, Computational and Statistical Physics.<br>
-<b>Other Courses</b> - Probability and Statistics, Statistical simulations, Pattern Recognition, Programming and Data-structures.<br>
+<h2 style="color:#d32f2f;">Courses and Certifications</h2> 
+<b>Certifications</b> - Microsoft Certified: Azure Fundamentals - Microsoft. <br>
+<b>Certifications</b> - Microsoft Certified: Azure Data Fundamentals - Microsoft. <br>
+<b>Courses</b> - DP-300: Administering Relational Databases on Microsoft Azure - Glasspaper.<br>
+<b>Courses</b> - SUSE Linux Enterprise Server 12 administration (SLE201) - BDA.<br>
+<b>Other Courses  and Certifications</b> - Agile Software Development - University of Minnesota.<br>
+<b>Other Courses  and Certifications</b> - VFQ Foundations - Emergn.<br>
 <hr style="width:100%"> 
 
 <h2 style="color:#d32f2f;">Experience</h2> 
