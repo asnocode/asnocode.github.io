@@ -5,7 +5,7 @@ description: Get ready for 2024—the year of Cloud Optimization. Several conver
 date: 2023-12-13
 author: asNoCode
 layout: post
-image: assets/images/posts/2020-04-27-intro-to-agn/banner.jpg
+image: assets/images/posts/2020-04-27-intro-to-agn/banner.png
 image-webp: assets/images/posts/2020-04-27-intro-to-agn/banner.webp
 image-thumb: assets/images/posts/2020-04-27-intro-to-agn/banner-thumb.jpg
 image-alt: 10 Trends Shaping 2024 and Beyond 
@@ -32,10 +32,10 @@ According to Gartner, cloud adoption will move from being a technology disruptor
 
 According to McKinsey & Company's "In search of cloud value" report:
 
- Cloud enables businesses to innovate, which is worth more than x5 what is possible by simply reducing costs.
- The anticipated increase in EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) attributable to cloud adoption is projected to range between 20% and 30% by the year 2030 - but it's expected to vary across different sectors.
- Asian companies have the most to gain from the cloud, with $1.2 trillion in EBITDA. American institutions stand to capture about $1.1 trillion in cloud value, while European institutions are at $773 billion due to regulatory constraints.
-Companies that have captured the most ROI consistently do 3 things well: 1/ work closely with business leaders to focus on high-value business cases, 2/ build a robust cloud foundation, and 3/ adopt a product-oriented operating model.
+ Cloud enables businesses to innovate, which is worth more than x5 what is possible by simply reducing costs. </br> 
+ The anticipated increase in EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) attributable to cloud adoption is projected to range between 20% and 30% by the year 2030 - but it's expected to vary across different sectors. </br> 
+ Asian companies have the most to gain from the cloud, with $1.2 trillion in EBITDA. American institutions stand to capture about $1.1 trillion in cloud value, while European institutions are at $773 billion due to regulatory constraints.</br> 
+Companies that have captured the most ROI consistently do 3 things well: 1/ work closely with business leaders to focus on high-value business cases, 2/ build a robust cloud foundation, and 3/ adopt a product-oriented operating model. </br> 
 
 ### 2. Large Organizations with Multi-Cloud and Hybrid Environments
 Multi-cloud and Hybrid (mixing cloud and on-premise infrastructure) environments are a trend that is here to stay. According to Forbes, by 2024, 85% of large-sized companies will have a multi-cloud strategy. Organizations recognize the importance of leveraging multiple cloud providers and on-premises infrastructure to optimize performance, enhance redundancy, and mitigate risks. 
@@ -46,23 +46,26 @@ The following trends also relate to this multi-cloud and hybrid approach as comp
 ### 3. Infrastructure as Code (IaC) Crucial for Scalability
 IaC in general-purpose languages is gaining prominence as organizations seek to automate and streamline their infrastructure management processes and reduce the divide between application development and cloud infrastructure development. 
 Infrastructure as Code is maturing beyond taming the complexity of the cloud:
- Facilitating the adoption and configuration standardization of multi-cloud and hybrid strategies
- Better integration with multiple cloud providers, like AWS, Azure, and Google Cloud, data stores, and third-party services like Cockroach Labs db, Confluent cloud, Kafka, and more.
- Deeper validation on parameters that people are passing in, checking all critical components, ensuring they are configured correctly before deployment
- More efficient resource management
- Robust security and Policy as Code to enforce security practices, guardrails, compliance, cost policies, and more 
- Intelligent automation, including automated tests and remediation policies
- AI-driven automation and insights
+
+ Facilitating the adoption and configuration standardization of multi-cloud and hybrid strategies </br> 
+ Better integration with multiple cloud providers, like AWS, Azure, and Google Cloud, data stores, and third-party services like Cockroach Labs db, Confluent cloud, Kafka, and more. </br> 
+ Deeper validation on parameters that people are passing in, checking all critical components, ensuring they are configured correctly before deployment </br> 
+ More efficient resource management </br> 
+ Robust security and Policy as Code to enforce security practices, guardrails, compliance, cost policies, and more </br> 
+ Intelligent automation, including automated tests and remediation policies </br>
+ AI-driven automation and insights </br> 
 
 ### 4. Rise of Security-First (DevSecOps)
 Security is no longer a separate consideration but a top priority in the cloud landscape - integrating security into the DevOps process, known as DevSecOps, will be a key trend in 2024. Organizations will emphasize building security measures in every development lifecycle stage. Policy as Code will be an indispensable pillar in many security aspects: 
- Use off-the-shelf rules or define your best practices for security, cost, compliance, and reliability
- Maintain security across all cloud infrastructure assets
- Ensure cost-conscious deployments requiring specific cost allocation tags.
+
+ Use off-the-shelf rules or define your best practices for security, cost, compliance, and reliability </br> 
+ Maintain security across all cloud infrastructure assets </br> 
+ Ensure cost-conscious deployments requiring specific cost allocation tags. </br> 
 
 A live dashboard of organizational violations in Pulumi Cloud. Credit: Pulumi
- Catch policy violations before they escape using CI/CD.
- Automate governance using programmable libraries and REST APIs, easily integrating with external services such as web services, asset tracking databases, pricing lists, and more.
+
+ Catch policy violations before they escape using CI/CD. </br> 
+ Automate governance using programmable libraries and REST APIs, easily integrating with external services such as web services, asset tracking databases, pricing lists, and more. </br> 
 
 ### 5. Platform Engineering – Internal Developer Portals (IDP) for Better Developer Experience
 By 2026, 80% of large software engineering organizations will establish platform engineering teams as internal providers of reusable services, components, and tools for application delivery. Platform engineering will ultimately solve the central problem of cooperation between software developers and operators (source: Gartner).
@@ -78,11 +81,12 @@ In fact, BizReport estimates that by 2024, there will be an additional 131,000 A
 
 ### 7. Investment in Data and Data Streaming
 Data streaming is a buzzword set to go up in the maturity curve :
- Data Sharing for faster innovation. Collaboration within and beyond organizational boundaries is facilitated through data sharing, utilizing streaming protocols like Kafka, APIs like REST/HTTP, and adhering to open standards like AsyncAPI.
- Data Contracts for better data governance include enforcing policies for structure, integrity constraints, metadata, rules, and other specifications.
- Serverless Stream Processing will make building scalable and elastic streaming apps easier. The focus shifts towards deriving business value by leveraging a fully managed, integrated, and secure infrastructure.
- Multi-Cloud Deployments for cost-efficient delivery value, addressing the need for seamless data movement across cloud providers, organizations invest in data bridge creation, migrations, and disaster recovery solutions.
- Reliable Generative AI. This encompasses activities such as model training, real-time model scoring, and integration with third-party services, such as GenAI LLMs or Software as a Service (SaaS) offerings, to enhance the capabilities of artificial intelligence.
+
+ Data Sharing for faster innovation. Collaboration within and beyond organizational boundaries is facilitated through data sharing, utilizing streaming protocols like Kafka, APIs like REST/HTTP, and adhering to open standards like AsyncAPI. </br> 
+ Data Contracts for better data governance include enforcing policies for structure, integrity constraints, metadata, rules, and other specifications. </br> 
+ Serverless Stream Processing will make building scalable and elastic streaming apps easier. The focus shifts towards deriving business value by leveraging a fully managed, integrated, and secure infrastructure.</br> 
+ Multi-Cloud Deployments for cost-efficient delivery value, addressing the need for seamless data movement across cloud providers, organizations invest in data bridge creation, migrations, and disaster recovery solutions.</br> 
+ Reliable Generative AI. This encompasses activities such as model training, real-time model scoring, and integration with third-party services, such as GenAI LLMs or Software as a Service (SaaS) offerings, to enhance the capabilities of artificial intelligence.</br> 
 Event streaming technology can be transformative but often difficult to adopt. Watch Collin James, Engineering Leader and Software Architect at Dutchie, describe how a small team has enabled Kafka adoption by creating a monorepo of Pulumi projects that manage resources on Confluent Cloud.
 
 ### 8. Kubernetes Dominance and Increased Complexity:
