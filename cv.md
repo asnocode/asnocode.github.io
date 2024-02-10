@@ -32,7 +32,7 @@ Associate's degree, Network and System Administration/Administrator (Sep 2017 - 
 <b>Cloud Computing</b> - Microsoft Azure, AWS, OpenStack, Red Hat, Oracle, SAP, Virtual Machine, IaaS, PaaS, Cloud Migration.<br>
 <b>Database Administration</b> - Microsoft SQL Server, Azure SQL, Azure SQL Managed Instances, Oracle Database, SAP HANA, Sybase, PowerDesigner, IBM DB2.<br>
 <b>Continuous Integration and Continuous Delivery (CI/CD)</b> - Azure DevOps, Jenkins, GitLab, GitHub Actions, Git, Docker, Azure Pipelines.<br>
-<b>Automation</b> - Cloud, On-Premises, Infrastructure, Platform, Database, IT operations, Cron, CI/CD, Monitoring, SCM, Linux, SAP HANA, Azure Automation, Azure Functions, Azure Monitor, Splunk.
+<b>Automation</b> - Cloud, On-Premises, Infra, Platform, Database, CI/CD, Monitoring, SCM, Linux, SAP HANA, Azure Automation, Azure Functions, Azure Monitor, Splunk.
 <hr style="width:100%"> 
 
 <h2 style="color:#d32f2f;">Courses and Certifications</h2> 
@@ -46,74 +46,70 @@ Associate's degree, Network and System Administration/Administrator (Sep 2017 - 
 
 <h2 style="color:#d32f2f;">Experience</h2> 
 <a href="{{ 'research' | absolute_url }}"  class="tag_btn"><span>Go to Research Interests</span></a><br><br>
-<b>Looking from All Angles at a Source Straddling the Radio-loud/Radio-quiet AGN Divide.</b><br>
-VSRP Summer Internship Under Dr. Preeti Kharb, National Center For Radio Astrophysics (NCRA-TIFR).<br>
-Pune, India. (May. 2018 - July. 2018)
-<ul>
-  <li>Study of NGC 2329, a peculiar AGN, at different radio bands, resolutions and sensitivities.</li>
-  <li>Extensive imaging of archival VLA, VLBA and eVLA data using AIPS, CASA and SAO DS9.</li>
-</ul>
-<br>
-<b>Importance of Polarization Calibration in Radio Interferometry.</b><br>
-Master’s Project Under Dr. Prasun Dutta, IIT (BHU), Varanasi.<br>
-Varanasi, India. (Jan. 2017 - May. 2019)
-<ul>
-  <li>Aims to provide valuable insight into the power spectrum estimation methods and to construct the reionization signal from the observed data.</li>
-  <li>Calibration and imaging using CASA. Used the software VISFITS for visibility simulation and modified it for the addition of antenna gains.</li>
-</ul>
-<br>
-<b>Understanding Stellar Collapse and Formation of Strange Quark Stars.</b><br>
-Summer Internship Under Prof. Ming Chung Chu, Chinese University Of Hong Kong.<br>
-Hong Kong SAR. (Jun. 2017 - Aug. 2017)
-<ul>
-  <li>Hydrodynamic simulations aimed at understanding stellar collapse and investigating the conditions that lead to formation of Strange Quark
-Stars, and their attributes and Gravitational Wave signatures.</li>
-</ul>
-<br>
-<b>Star cluster detection and characterization using generalized Parzen density estimation.</b><br>
-Summer Internship Under Dr. Sarita Vig, Indian Institute Of Space Science And Technology (IIST) And Dr. Gorthi RKSS Manyam, IIT Tirupati.<br>
-Thiruvananthapuram, India. (May. 2016 - July. 2016)
-<ul>
-  <li>Involved the application of generalized Parzen Windows for star cluster detection and identification.</li>
-  <li>Wrote a MATLAB pipeline for semi-automatic detection of star cluster in a given field of stars.</li>
-  <li>Presented a paper on the same at conference ”Star and Planet Formation : Insights and Intricacies” at IIST Thiruvananthapuram. Paper accepted for publication in MNRAS, Oct 2018.</li>
-</ul>
+<b> 
+DevOps Engineer</b><br>
+Emergn
+
+Nov 2023 – Present (4 mos)
+
+
+<b> 
+Database Administrator</b><br>
+If Insurance
+
+Mar 2022 – Nov 2023 (1 yr 9 mos)
+
+
+<b> 
+System Support Engineer</b><br>
+If Insurance
+
+Jun 2021 – Mar 2022 (10 mos)
+
+
+<b>
+System Analyst</b><br>
+SMC Automation Latvia
+
+Dec 2020 – Jun 2021 (7 mos)
+
+European IT Division
+
+
+<b> 
+Software Database Developer</b><br>
+C.T.Co
+
+Jul 2019 – Jan 2020 (7 mos)
+
+
+<b>
+Information Communication Technology Administrator</b><br>
+Civinity
+
+Aug 2018 – Aug 2019 (1 yr 1 mo)
+
+
+<b> 
+Network And Database Administrator</b><br>
+Papaya
+
+Aug 2017 – Aug 2018 (1 yr 1 mo)
+
+
+<b>
+Network and Computer Systems Administrator Assistant</b><br>
+DEAC European Data Center Operator
+
+Apr 2017 – Jun 2018 (1 yr 3 mos)
+
+
+<b> 
+Software Developer</b><br>
+Atea Global Services Ltd.
+
+Jan 2014 – Feb 2015 (1 yr 2 mos)
 
 <hr style="width:100%"> 
-<h2 style="color:#d32f2f;">Teaching Assistant Positions</h2> 
-<ul>
-<li>2019 - PHY 304 - Computational Physics (Theory and Lab)</li>
-<li>2018 - PHY 303 - Electromagnetic Waves</li>
-<li>2017 - PHY 304 - Solar, Space & Plasma Physics</li>
-<li>2017 - PHY 303 - Electromagnetic Waves</li>
-<li>2016 - PHY 102 - Physics II (Electromagnetism)</li>
-</ul>
-<hr style="width:100%"> 
-<h2 style="color:#d32f2f;">Publications</h2> 
-<a href="{{ 'publications' | absolute_url }}" class="tag_btn"><span>Go to Publications</span></a><br>
-<ul>
-<li>2018&nbsp;-&nbsp;S. Nambiar, S. Das, S. Vig, G.R.K.S.S. Manyam, ”Star cluster detection and characterization using generalized Parzen density estimation”, MNRAS, accepted for publication, Oct. 17, 2018.</li>
-<br>
-<li>(Under Preparation for submission to URSI-RCRS)&nbsp;-&nbsp;J. Kumar, P. Dutta, S. Das, N. Roy, ”Instrumental Calibration for Observations of Redshifted 21-cm Signal from Neutral Hydrogen”.</li>
-<li>(Under Preparation for submission to MNRAS)&nbsp;-&nbsp;S. Das, P. Kharb, S. Nandi, R. Morganti, ”The Peculiar Wide-Angle-Tailed Galaxy NGC 2329 with an FRI-Seyfert Radio Outflow”.</li>
-</ul>
-<hr style="width:100%"> 
 
-<h2 style="color:#d32f2f;">Conferences</h2> 
-<ul>
-<li> 2019 &nbsp;- &nbsp;Presented a poster on ”Instrumental calibration requirements for observation of redshifted 21-cm signal from neutral hydrogen” at the Metre Wavelength Sky II Conference (MYSKY-II) held at National Centre for
-Radio Astrophysics, Pune, India</li>
-<li> 2016 &nbsp;-&nbsp; Presented a paper on ”Star cluster detection using Parzen Window” at the Star and Planet Formation Conference (SPF2016) held at Indian Institute of Space Science and Technology, Thiruvananthapuram, India</li>
-</ul>
-
-<hr style="width:100%"> 
-<h2 style="color:#d32f2f;">Achievements, Awards and Extra-curricular activities</h2> 
-<ul>
-<li>2017 &nbsp;-&nbsp;  Winner, Codefest Appathon - Android Development Competition, Dept. of CSE, IIT (BHU) Varanasi.</li>
-<li>2016 &nbsp;-&nbsp;  Founder, Corona - Bi-monthly collegiate astronomy magazine.</li>
-<li>2016 &nbsp;-&nbsp;  Secretary, Astronomy Club, IIT (BHU) Varanasi.</li>
-<li>2016 &nbsp;-&nbsp;  Winner, Hackathon - Android Development Contest, Technex, IIT (BHU) Varanasi.</li>
-<li>2015 &nbsp;-&nbsp;  Global Rank 81, Open Contest ”The Pythonist” hosted on hackerrank.com.</li>
-<li>2015 &nbsp;-&nbsp;  Winner, Eyes on the Sky - a messier hunting competition, LNMIIT, Jaipur, India.</li>
-</ul>
 <p  style="font-size: smaller;" ><a href="#top" class="button icon fa-angle-double-up">&nbsp;Back to Top</a></p>
