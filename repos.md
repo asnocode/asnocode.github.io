@@ -46,7 +46,7 @@ Report issues [here](https://github.com/asnocode/asnocode.github.io/issues), or 
 
 <div  class="posts">
 {% for post in site.projects %}
-<!-- <article>
+ <article>
     <p><br><a style="color: #999; font-weight: 400;" href="{{ post.url  | absolute_url }}">{{ post.title }}</a></p>
             <a href="{{ post.url  | absolute_url }}" class="image">
                 <picture>
@@ -56,6 +56,6 @@ Report issues [here](https://github.com/asnocode/asnocode.github.io/issues), or 
                 </picture> 
                 <p style="margin-top: 10px; color: #444444;">{{ post.description }}</p>
             </a>
-        </article>-->
+        </article>
   {% endfor %}
 </div>
