@@ -3,7 +3,7 @@ title : From Machine Learning to DevSecOps. Six DevOps Trends for 2024.
 short-title : Future of DevOps
 description: The DevOps market is set to grow by 25% annually between 2024 and 2032, fueled by the growing demand for faster software delivery and higher-quality output.
 Date :  2023-12-20
-author: noAsCode
+author: asNoCode
 layout: post
 image: assets/images/posts/2020-05-01-aips-guide-v1/banner.jpg
 image-webp: assets/images/posts/2020-05-01-aips-guide-v1/banner.webp
