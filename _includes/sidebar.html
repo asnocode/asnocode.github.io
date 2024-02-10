@@ -25,12 +25,6 @@
                 <li><b><i class="fa fa-file-text-o"></i>&nbsp;&nbsp;&nbsp;&nbsp;Curriculum Vitae</b></li>    
               {% endif %} 
 
-              {% if page.title != "Research Interests" %}
-                 <li><a href="{{ 'research' | absolute_url }}"><i class="fa fa-magic"></i>&nbsp;&nbsp;&nbsp;&nbsp;Research</a></li>    
-              {% else %}
-                <li><b><i class="fa fa-magic"></i>&nbsp;&nbsp;&nbsp;&nbsp;Research</b></li>  
-              {% endif %} 
-
               {% if page.title != "Project Repositories" %}
                  <li><a  href="{{ 'repos' | absolute_url }}"><i class="fa fa-code-fork"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Repositories</a></li>    
               {% else %}
