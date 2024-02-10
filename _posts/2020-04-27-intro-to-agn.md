@@ -1,41 +1,107 @@
 ---
-title: 'Introduction to Active Galactic Nuclei'
-short-title : Intro to AGN
-description: Active galactic nuclei are the most energetic, luminous sources in the universe. Article by Soumyadeep Das on AGN, research areas, and exciting discoveries.
-date: 2020-04-27
-author: Soumyadeep Das
+title: 'Future of the Cloud: 10 Trends Shaping 2024 and Beyond: 10 Trends Shaping 2024 and Beyond'
+short-title : Future of the Cloud: 10 Trends Shaping 2024 and Beyond
+description: Get ready for 2024—the year of Cloud Optimization. Several converging trends will redefine the landscape, driving innovation, efficiency, and scalability for years to come. From Infrastructure as Code (IaC), AI/ML, and #Kubernetes to platform engineering and security practices, let's explore the 10 trends shaping 2024 and beyond.
+date: 2023-12-13
+author: asNoCode
 layout: post
 image: assets/images/posts/2020-04-27-intro-to-agn/banner.jpg
 image-webp: assets/images/posts/2020-04-27-intro-to-agn/banner.webp
 image-thumb: assets/images/posts/2020-04-27-intro-to-agn/banner-thumb.jpg
-image-alt: Active Galaxtic Nuclei 
-image-source: Digital artist's impression of an active galactic nuclei (Source - universetoday.com).
+image-alt: 10 Trends Shaping 2024 and Beyond 
+image-source: Pulumi (Source - pulumi.com).
 permalink: /posts/2020/04/intro-to-agn/
 page-level: postpage
 status: beta 
-tags: agn galaxies research
+tags: Cloud DevOps MultiCloud hybridcloud Pulumi
 ---
 
-Active galactic nuclei (AGN) are some of the most energetic, luminous, peaceful sources in the universe, giving out persistent radiation. Peaceful would be a generous adjective - they are relatively non-violent; they do not explode as most things in the universe tend to do! We generally identify AGN with large plume-like jets seen on either side of galaxies. AGN are powered by violent accretion of matter onto supermassive black holes (SMBH) in the galactic centers. The radiation from such a process far outshines the combined starlight from a galaxy. Some of the brightest sources of radiation in the universe are AGN and thus can be "seen" upto incredible distances. Infact the majority of the farthest (hence oldest) known objects are AGN. Therefore they can be used to map out the universe at the earliest epochs. Indeed, not all galaxies are active; and not all active galaxies have bright and dazzling jets. Infact the majority of AGN can hardly be distinguished from regular galaxies. But even these ordinary-looking AGN hold clues to solving intricate problems, and thus makes the life of AGN researchers devoid of boredom!
+Get ready for 2024—the year of Cloud Optimization. Several converging trends will redefine the landscape, driving innovation, efficiency, and scalability for years to come. From Infrastructure as Code (IaC), AI/ML, and #Kubernetes to platform engineering and security practices, let's explore the 10 trends shaping 2024 and beyond.
 
-## Components of AGN
-Even after decades of research, our understanding of AGN is still in primitive stagges. Optical, UV, and IR signals undergo severe losses due to intergalactic medium and our atmosphere. Radio observations for long have been our best bet to observe the extragalactic sources. But in the vicinity of the central engine, even radio waves fail. The density of matter near the core (still much farther away from the event horizon) is so large that the radio photons emitted are absorbed by the source itself, leading to a complete information blackout. Thus, we are dependant on spectrometry, as well  as on reverse engineering the observational signatures to understand the composition of AGN.
+#Cloud #DevOps #MultiCloud #hybridcloud
 
-<!-- <span class="image fit"><img src="" alt="AGN Composition" /></span>
 
-_This illustration shows the different features of an active galactic nucleus (AGN). The extreme luminosity of an AGN is powered by accretion onto a supermassive black hole. Some AGN have jets, while others do not. (Credit: Aurore Simonnet, Sonoma State University)_ -->
+## 10 Trends Shaping 2024 and Beyond
+In 2024, several trends are expected to dominate cloud computing, driving innovation, efficiency, and scalability. From Infrastructure as Code (IaC) to AI/ML and security practices, let's explore the 10 biggest emerging trends:
 
-### 1. SMBH And The Accretion Disk
+<!-- <span class="image fit"><img src="" alt="Pulumi" /></span>-->
 
-The fundamental element to all AGN is the central SMBH. It is surrounded by a geometrically thin, flat, fast-spinning accretion disk formed by cold diffuse plasma. Gravitational stress and dynamic friction compress the disk inwards, heating it up. In conjunction with magnetic forces, energy and angular momentum are extracted from the disk, and the matter is sucked into the black hole. The heating of the accretion disk produces thermal emission, which peaks in optical and UV wavelengths. The accretion disk is surrounded by a blanket of hot, ionized corona, pretty much similar to our sun. Inverse-Compton scattering of the accretion disk photons by the corona leads to the production of X-ray wavelengths. 
+### 1. Cloud Will Become a Business Necessity by 2028
 
-### 2. The Dusty Torus
-The SMBH-accretion disk system is hidden from our vision by a toroidal envelope of gas and dust. Upon excitation by the optical/UV radiation from the accretion disk, this dusty torus emits Infrared radiation. The torus, has been resolved only a couple of times. Several theoretical models have been contructed, but its actual geometry and physical properties areyet to be conclusively understood. 
+According to Gartner, cloud adoption will move from being a technology disruptor to a necessity for maintaining business competitiveness. In 2024, worldwide end-user spending on public cloud services is forecast to total $679 billion and is projected to exceed $1 trillion in 2027.
 
-### 3. AGN Jets And Outflows
-Plume like jets coming out of both sides of a galaxy, that is probably the image conjured in one's mind when AGN are mentioned. Jets are easily the most striking visual feature, and it is a treat to observe and image jetted AGN. But even of the jets, we understand very little. 
+According to McKinsey & Company's "In search of cloud value" report:
 
-Jet creation process occurs in the vicinity of the central engine and can be broken down essentially into three main parts - extraction of plasma packets from the disk by the disk magnetic field, accumulation of the plasma packets along the axis, and acceleration of jets outwards away from the disk.  
+ Cloud enables businesses to innovate, which is worth more than x5 what is possible by simply reducing costs.
+ The anticipated increase in EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) attributable to cloud adoption is projected to range between 20% and 30% by the year 2030 - but it's expected to vary across different sectors.
+ Asian companies have the most to gain from the cloud, with $1.2 trillion in EBITDA. American institutions stand to capture about $1.1 trillion in cloud value, while European institutions are at $773 billion due to regulatory constraints.
+Companies that have captured the most ROI consistently do 3 things well: 1/ work closely with business leaders to focus on high-value business cases, 2/ build a robust cloud foundation, and 3/ adopt a product-oriented operating model.
+
+### 2. Large Organizations with Multi-Cloud and Hybrid Environments
+Multi-cloud and Hybrid (mixing cloud and on-premise infrastructure) environments are a trend that is here to stay. According to Forbes, by 2024, 85% of large-sized companies will have a multi-cloud strategy. Organizations recognize the importance of leveraging multiple cloud providers and on-premises infrastructure to optimize performance, enhance redundancy, and mitigate risks. 
+
+Credit: Cisco Systems
+The following trends also relate to this multi-cloud and hybrid approach as companies seek ways to balance flexibility and cost while increasing overall productivity with security and compliance in mind.
+
+### 3. Infrastructure as Code (IaC) Crucial for Scalability
+IaC in general-purpose languages is gaining prominence as organizations seek to automate and streamline their infrastructure management processes and reduce the divide between application development and cloud infrastructure development. 
+Infrastructure as Code is maturing beyond taming the complexity of the cloud:
+ Facilitating the adoption and configuration standardization of multi-cloud and hybrid strategies
+ Better integration with multiple cloud providers, like AWS, Azure, and Google Cloud, data stores, and third-party services like Cockroach Labs db, Confluent cloud, Kafka, and more.
+ Deeper validation on parameters that people are passing in, checking all critical components, ensuring they are configured correctly before deployment
+ More efficient resource management
+ Robust security and Policy as Code to enforce security practices, guardrails, compliance, cost policies, and more 
+ Intelligent automation, including automated tests and remediation policies
+ AI-driven automation and insights
+
+### 4. Rise of Security-First (DevSecOps)
+Security is no longer a separate consideration but a top priority in the cloud landscape - integrating security into the DevOps process, known as DevSecOps, will be a key trend in 2024. Organizations will emphasize building security measures in every development lifecycle stage. Policy as Code will be an indispensable pillar in many security aspects: 
+ Use off-the-shelf rules or define your best practices for security, cost, compliance, and reliability
+ Maintain security across all cloud infrastructure assets
+ Ensure cost-conscious deployments requiring specific cost allocation tags.
+
+A live dashboard of organizational violations in Pulumi Cloud. Credit: Pulumi
+ Catch policy violations before they escape using CI/CD.
+ Automate governance using programmable libraries and REST APIs, easily integrating with external services such as web services, asset tracking databases, pricing lists, and more.
+
+### 5. Platform Engineering – Internal Developer Portals (IDP) for Better Developer Experience
+By 2026, 80% of large software engineering organizations will establish platform engineering teams as internal providers of reusable services, components, and tools for application delivery. Platform engineering will ultimately solve the central problem of cooperation between software developers and operators (source: Gartner).
+Mid-size to large companies will begin or continue to invest in implementing platform engineering practices, with large tech companies as first adopters. They will provide Internal Developer Portals (IDP) to elevate the Developer Experience  (DX, sometimes referred to as DE or DevEx), helping them work faster, like abstracting the complexities of configuring, testing, and validation, deploying infrastructure, and scanning their code for security.
+
+### 6. AI/ML Continues to Rise
+Many AI-based systems are built around cloud-native tools, practices, and managed services. The extensive use of cloud-native primitives means that AI is fundamentally a cloud adoption story, and Cloud and AI are consequently interconnected.
+Artificial Intelligence (AI) and Machine Learning (ML) applications will continue to drive innovation across various industries. This trend will increase the focus on machine learning algorithms, data collection and preprocessing, inference and deployment.
+
+By 2027, AI will dramatically increase developer velocity by automatically generating code to meet functional business requirements for 70% of new digital solutions in production (source: IDC). 
+Despite the concerns regarding AI and job security, AI job posts on the global work marketplace Upwork increased more than 1,000% in the second quarter of 2023 compared to the same period last year, showing a significant increase in new employment opportunities related to AI and ML.
+In fact, BizReport estimates that by 2024, there will be an additional 131,000 AI-related jobs within computer science. This figure currently stands at 30.3% of roles, supporting the World Economic Forum’s prediction that by 2025, 97 million new jobs will have been established thanks to AI.
+
+### 7. Investment in Data and Data Streaming
+Data streaming is a buzzword set to go up in the maturity curve :
+ Data Sharing for faster innovation. Collaboration within and beyond organizational boundaries is facilitated through data sharing, utilizing streaming protocols like Kafka, APIs like REST/HTTP, and adhering to open standards like AsyncAPI.
+ Data Contracts for better data governance include enforcing policies for structure, integrity constraints, metadata, rules, and other specifications.
+ Serverless Stream Processing will make building scalable and elastic streaming apps easier. The focus shifts towards deriving business value by leveraging a fully managed, integrated, and secure infrastructure.
+ Multi-Cloud Deployments for cost-efficient delivery value, addressing the need for seamless data movement across cloud providers, organizations invest in data bridge creation, migrations, and disaster recovery solutions.
+ Reliable Generative AI. This encompasses activities such as model training, real-time model scoring, and integration with third-party services, such as GenAI LLMs or Software as a Service (SaaS) offerings, to enhance the capabilities of artificial intelligence.
+Event streaming technology can be transformative but often difficult to adopt. Watch Collin James, Engineering Leader and Software Architect at Dutchie, describe how a small team has enabled Kafka adoption by creating a monorepo of Pulumi projects that manage resources on Confluent Cloud.
+
+### 8. Kubernetes Dominance and Increased Complexity:
+Kubernetes, the open-source container orchestration platform, will continue its ascent in 2024. According to Markets N Research, the global Kubernetes market size was valued at USD 1.8 billion in 2022 and is projected to be USD 7.8 billion by 2030, exhibiting a CAGR of 23.40% during the forecast period.
+The "growing pains" will also increase with rising concerns in security, networking, deployment, scalability, cost, and impact on developer productivity.
+Read the previous LinkedIn article From Complexity to Simplicity: Streamlining Kubernetes with Infrastructure as Code.
+
+### 9. Cost Transparency and Governance
+As cloud environments become more complex, ensuring cost transparency and governance will be a priority. In 2024, businesses will invest in Cloud Optimization and/or cost management tools and processes to monitor and control cloud spending effectively. This includes implementing policies, managing resource allocation, and utilizing cost analytics to make informed decisions about resource utilization. 
+As a result, IDC predicts that complexities and IT budget pressures will drive 70% of Global 1000 companies to increase FinOps maturity with granular chargebacks, benchmarking, and multiple-cloud optimization by 2024.
+
+### 10. Talent Shortage
+Over 150,000 technology industry workers have been laid off in the US since the beginning of 2023, and yet the Korn Ferry report finds that by 2030, more than 6 million jobs could go unfilled because there aren't enough skilled people to take them. 
+Previous research by McKinsey Global Institute has shown that as many as 375 million tech workers globally might have to change occupations and skills in the next decade to meet companies' needs and that automation could free employees to spend as much as 30% of their time on new work-acquiring new work experience.
+The skill gaps have appeared in many of the previously stated trends. For organizations, it means that they need to look closer at their existing knowledge and prioritize skill-building, reskilling, and upskilling efforts. These programs face other obstacles, most at the cultural level.
+Since 72% of US companies struggle to find tech talent, now’s a great time to upskill for the cloud. Check out our upcoming workshops - topics range from introduction level to IaC, taking AI apps to production, and more.
+
+### Keeping up with the Future Cloud Trends
+From advanced technologies like AI/ML and Kubernetes to practices like FinOps and Security, the cloud of 2024 is set to redefine best practices for enhanced efficiency, security, and scalability. You may have noticed that many trends overlap, and a holistic view will be crucial for organizations aiming to stay ahead.
 
 <p><div class="image left imgleft" style="align-items: center;" >
     <picture style="vertical-align: top;">
@@ -43,37 +109,6 @@ Jet creation process occurs in the vicinity of the central engine and can be bro
             <source data-srcset="{{ 'assets/images/posts/2020-04-27-intro-to-agn/agn_structure.png' | relative_url }}" type="image/png" > 
             <img src="{{ 'assets/images/posts/2020-04-27-intro-to-agn/agn_structure-thumb.jpg' | relative_url }}" alt="AGN structure and composition." data-src="{{ 'assets/images/posts/2020-04-27-intro-to-agn/agn_structure.png' | relative_url }}"  class="lazyload" />
       </picture>    
-        <figcaption>Figure : Different features of an AGN. (Credit: Aurore Simonnet, Sonoma State University)</figcaption>
+        <figcaption>Figure : The future of cloud computing. (Credit: Gartner)</figcaption>
 
 </div>
-
-
-Jets give us an approximate idea of the power of the central engine - stronger the engine, larger the jets. Near the center, these jets are relativistic and often appear single sided courtesy doppler shifts. As these jets move out, they are slowed down by the intergalactic medium. Low power Seyfert AGNs have tiny bubble like jets, moderate Fanaroff Riley I (FR I) classes have large structures jets. Largest jets seen are those in quasars, like the one pictured at the center of the page (Hercules A). Jets are made of magnetized plasma, and acceleration of charged particles give rise to radio emission (synchrotron mechanism, class XII stuff!). Jets dominate AGN emission in the γ-rays and often in the radio band. </p>
-
-
-## The AGN Zoo
-As I have already mentioned, AGN radiation spans the entire electromagnetic spectrum, each wavelength consisting of unique observational signatures, telling us different stories. Reverse engineering these signatures has led to the identification of several distinct features - leading to simply too many classes of AGN. There are so many types of AGN that regular words like group, herd, etc., do not do justice. Currently we know of over 50 classes of AGN. There are several ways of classification – based on the observing frequencies (such as Radio galaxies), nuclear activity (eg., LINERs), brightness and luminosity (LLAGNs), variability (Blazars), difference in emission lines (Seyferts), and so on. All these classes are based on observational attributes or selection bias, and so they overlap frequently. A source might appear to be a Seyfert in optical observations and then behave like an FR in radio wavelengths. Being such a chaotic and confusing area of research, this has been aptly named a zoo. The confusion is inevitable, and anyone claiming to completely understand this zoo is deceiving themselves. 
-
-<div class="box">
-<h4>AGN FACT SHEET</h4>
-<ul>
-    <li>AGN do not continously eat matter and spewjets. AGN go through large phases of inactivity. Such AGN are said to have been switched-off.</li>
-
-    <li>Our Milky Way is said to have hosted an active nuclei thousands of years ago. With a collision with Andromeda, we may see revival of the AGN.</li>
-
-    <li>AGN are bad for health! An active galaxy will not support life due to the presence of unsurvivable amounts of radiation.</li>
-
-    <li>The oldest observed AGN is ULAS J1120+0641. Its light takes 12.9 billion years to reach us. Thus when we look at it, we are seeing the skies just 770 million years after the big bang!</li>
-</ul>
-</div>
-
-
-## AGN - The Key to Many Puzzles
-Active galactic nuclei are crucial to our understanding of the life and evolution of galaxies, and of the early history of universe. Due to their immense power, AGN can be seen upto incredible redshifts (higher the redshift, older is the structure.) AGN observations thus hold clues about the early stages of the universe and the very first objects formed. AGN also influence galaxy observations, and vice versa. It has been observed that the largest of AGN are found in old elliptical galaxies; young and dimmer AGN in newer spirals. On one hand, shocks from AGN act as catalyst to star formation, while on the other hand, AGN are known to heat up the star forming gases, thus quenching star formation. Further, AGN provide a window to understanding black-hole physics - we can now calculate critical black hole param- eters by studying AGN spectral information. 
-
-
-
-In itself AGN has remained quite a mystery thus far. The very structure and composition of active galaxies has remained a matter of conjecture. Almost all galaxies host SMBH at the center, yet a very meagre percentage are active. To understand the evolutinary path of AGN, we are energetically conducting cutting-edge observations. With the advent of Very Large Baseline Interferometry (VLBI; they are simply the largest telescopes, spanning multiple continents), we are finally in a position to get out of the blind and observe the vicinity of the black hole.
-
-Dramatic increases in our computational power have made AGN a test bed for relativistic simulations. AGN, hosting the largest of SMBHs, are the primary targets for gravitational wave astronomy. A significant amount of research on AGN has also been achieved using the Indian facilities such as the GMRT, ASTROSAT and the Himalayan Chandra Telescope (HCT). The future holds more dedicated studies of AGN which will strengthen our understanding and help solve the mysteries of the universe.
-
