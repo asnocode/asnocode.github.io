@@ -16,10 +16,7 @@ status: beta
 tags: Cloud DevOps MultiCloud hybridcloud Pulumi
 ---
 
-Get ready for 2024—the year of Cloud Optimization. Several converging trends will redefine the landscape, driving innovation, efficiency, and scalability for years to come. From Infrastructure as Code (IaC), AI/ML, and #Kubernetes to platform engineering and security practices, let's explore the 10 trends shaping 2024 and beyond.
-
-#Cloud #DevOps #MultiCloud #hybridcloud
-
+<!-- status - publ, beta -->
 
 ## 10 Trends Shaping 2024 and Beyond
 In 2024, several trends are expected to dominate cloud computing, driving innovation, efficiency, and scalability. From Infrastructure as Code (IaC) to AI/ML and security practices, let's explore the 10 biggest emerging trends:
@@ -29,18 +26,13 @@ In 2024, several trends are expected to dominate cloud computing, driving innova
 ### 1. Cloud Will Become a Business Necessity by 2028
 
 According to Gartner, cloud adoption will move from being a technology disruptor to a necessity for maintaining business competitiveness. In 2024, worldwide end-user spending on public cloud services is forecast to total $679 billion and is projected to exceed $1 trillion in 2027.
-
 According to McKinsey & Company's "In search of cloud value" report:
-
- Cloud enables businesses to innovate, which is worth more than x5 what is possible by simply reducing costs. </br> 
- The anticipated increase in EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) attributable to cloud adoption is projected to range between 20% and 30% by the year 2030 - but it's expected to vary across different sectors. </br> 
- Asian companies have the most to gain from the cloud, with $1.2 trillion in EBITDA. American institutions stand to capture about $1.1 trillion in cloud value, while European institutions are at $773 billion due to regulatory constraints.</br> 
-Companies that have captured the most ROI consistently do 3 things well: 1/ work closely with business leaders to focus on high-value business cases, 2/ build a robust cloud foundation, and 3/ adopt a product-oriented operating model. </br> 
+Cloud enables businesses to innovate, which is worth more than x5 what is possible by simply reducing costs.</br> 
+The anticipated increase in EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) attributable to cloud adoption is projected to range between 20% and 30% by the year 2030, but it's expected to vary across different sectors.</br> 
+Asian companies have the most to gain from the cloud, with $1.2 trillion in EBITDA. American institutions stand to capture about $1.1 trillion in cloud value, while European institutions are at $773 billion due to regulatory constraints.</br> 
 
 ### 2. Large Organizations with Multi-Cloud and Hybrid Environments
 Multi-cloud and Hybrid (mixing cloud and on-premise infrastructure) environments are a trend that is here to stay. According to Forbes, by 2024, 85% of large-sized companies will have a multi-cloud strategy. Organizations recognize the importance of leveraging multiple cloud providers and on-premises infrastructure to optimize performance, enhance redundancy, and mitigate risks. 
-
-Credit: Cisco Systems
 The following trends also relate to this multi-cloud and hybrid approach as companies seek ways to balance flexibility and cost while increasing overall productivity with security and compliance in mind.
 
 ### 3. Infrastructure as Code (IaC) Crucial for Scalability
