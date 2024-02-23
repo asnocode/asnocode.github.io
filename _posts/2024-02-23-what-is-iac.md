@@ -1,15 +1,15 @@
 ---
-title : Enter Your Title Here
-short-title : Title in less than 3 words
-description: Short title. Name. Mention important keywords for SEO.
+title : What Is Infrastructure as Code (IaC)? 
+short-title : Infrastructure as Code
+description: Infrastructure as code (IaC) is defined as the continuous practice of using programming languages and machine-readable code to manage and configure computing.
 Date :  2024-02-23
-author: asnocode.com
+author: Rejoice Isaac
 layout: post
 image: assets/images/posts/2024-02-23-what-is-iac/banner.jpg
-image-alt: Text description of the image
-image-source: Source - examplesite.com.
+image-alt: Infrastructure as Code
+image-source: Source - turing.com.
 permalink: /posts/2024/02/what-is-iac/
-tags: tag1 tag2 tag3 tag4
+tags: iac devops cloud automation
 page-level: postpage
 sitemap: false
 ---
