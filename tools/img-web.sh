@@ -2,7 +2,7 @@
 #  -gaussian-blur 0.05
 echo "Enter the filename (with extension), the new image name and extension - "
 read image
-imgfile="image"
+imgfile="$image"
 newname=$2
 newimg=$2.$3
 newext=$3
