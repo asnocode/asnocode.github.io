@@ -3,7 +3,7 @@
 echo "Enter the filename (with extension), the new image name and extension - "
 read image
 read location ## assets/images/posts/2024-02-23-Pulumi-end-to-end-on-Azure
-imgfile="$location"+"/"+"$image"
+imgfile="$location"+"/$image"
 newname='banner'
 newext='jpg'
 newimg="$location"+$newname.$newext
