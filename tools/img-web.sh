@@ -1,7 +1,8 @@
 # Compresses images for web, creates a thumbnail and a webp file.
 #  -gaussian-blur 0.05
 echo "Enter the filename (with extension), the new image name and extension - "
-imgfile=$1
+read image
+imgfile="image"
 newname=$2
 newimg=$2.$3
 newext=$3
