@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Publications
-description: Jais Kumar, Prasun Dutta, Soumyadeep Das, Nirupam Roy. Instrumental Calibration for Observations of Redshifted 21-cm Signal from Neutral Hydrogen. 1 June 2020.
+description: Kristine Vorobjova-Grudinska. asnocode.com
 identifer: publpage
 permalink: publications/
 redirect_from:
