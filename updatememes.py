@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 
 # jpg  junk  lq  thumb  webp
-#/home/overlord/git/soumyadeepdas.gitlab.io/assets/images/memes/memelist.txt
+#/home/overlord/git/asnocode.gitlab.io/assets/images/memes/memelist.txt
 
 basedir = 'assets/images/memes/'
 memejpgs = 'assets/images/memes/jpg/'
