@@ -5,8 +5,8 @@ read image ## banner.jpg
 echo "Enter location (assets/images/posts/2024-02-23-Pulumi-end-to-end-on-Azure) - "
 read location ## assets/images/posts/2024-02-23-Pulumi-end-to-end-on-Azure
 imgfile="$location/$image"
-newname='banner'
-newext='jpg'
+newname='crest-iitbhu-180'
+newext='png'
 newimg="$location/$newname.$newext"
 echo "$imgfile $newimg"
 convert $imgfile -sampling-factor 4:2:0 -strip -quality 85   -interlace Plane -colorspace RGB $newimg
