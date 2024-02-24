@@ -13,7 +13,7 @@ echo "title : Enter Your Title Here"  >> $postmd
 echo "short-title : Title in less than 3 words"  >> $postmd
 echo "description: Short title. Name. Mention important keywords for SEO." >>  $postmd
 echo "Date : " `date +"%Y-%m-%d"` >> $postmd
-echo "author: Soumyadeep Das" >> $postmd
+echo "author: asnocode.com" >> $postmd
 echo "layout: project-post" >> $postmd
 echo "image: $postdir/banner.jpg" >>  $postmd
 echo "image-alt: Text description of the image" >>  $postmd
