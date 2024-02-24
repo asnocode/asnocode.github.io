@@ -60,7 +60,7 @@ page-level: homepage
 			</span>
 			<div class="content">
 				<h3>Programming</h3>
-				<p>C. Python. Bash. Powershell. Java. </p>
+				<p>C. C#. Python. Bash/Shell. PowerShell. Java. SQL. PL/SQL. UML. </p>
 			</div>
 		</article>
 		<article>
@@ -69,7 +69,7 @@ page-level: homepage
 			</span>
 			<div class="content">
 				<h3>Infrastructure As Code</h3>
-				<p>Miscellaneous</p>
+				<p>Terraform. Pulumi. Ansible. YAML. ARM. Azure Bicep. CI/CD. VCS. </p>
 			</div>
 		</article>
 	</div>
@@ -125,12 +125,6 @@ page-level: homepage
 </div> 
 	
 </span>
-	<div class="content">
-		<p style="font-size: 80%;"><b>PhD Student (ICRAR)</b><br>
-			Astronomy and Astrophysics.<br>
-		    The University of Western Australia<br>
-		    35 Stirling Highway, 6009 Perth, Australia.</p>
-	</div>
 </article>
  -->
 
