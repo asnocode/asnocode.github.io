@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: galaxies"
-tag: galaxies
+title: "Tag: automation"
+tag: automation
 robots: noindex
 sitemap: false
 ---

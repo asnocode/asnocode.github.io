@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: imaging"
-tag: imaging
+title: "Tag: devops"
+tag: devops
 robots: noindex
 sitemap: false
 ---

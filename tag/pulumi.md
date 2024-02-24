@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: agn"
-tag: agn
+title: "Tag: pulumi"
+tag: pulumi
 robots: noindex
 sitemap: false
 ---

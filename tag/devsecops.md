@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: vla"
-tag: vla
+title: "Tag: devsecops"
+tag: devsecops
 robots: noindex
 sitemap: false
 ---

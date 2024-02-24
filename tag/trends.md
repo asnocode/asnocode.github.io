@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: research"
-tag: research
+title: "Tag: trends"
+tag: trends
 robots: noindex
 sitemap: false
 ---
