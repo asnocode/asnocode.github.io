@@ -1,12 +1,12 @@
 <!-- Header -->
   <header id="header">
-    {% if page.title == "Home" %}
+    {% if page.title == "asNoCode" %}
         <a style="font-size: 1em;" href="{{ '#nobanner' | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> {{ site.subtitle }}</a>
         {% endif %}
 
     {% if page.page-level == "mainpage" %}
     <ul style="font-size: 1em;"  class="actions">
-                <li><a class="logo" href="{{ '#nobanner' | absolute_url }}" ><strong>Home&nbsp;&nbsp;&nbsp;&nbsp;></strong></a></li>
+                <li><a class="logo" href="{{ '#nobanner' | absolute_url }}" ><strong>asNoCode&nbsp;&nbsp;&nbsp;&nbsp;></strong></a></li>
                 <li class="logo"><strong style="color: #999999">{{ page.title }}</strong></li>
             </ul>
         {% endif %}
@@ -14,7 +14,7 @@
     
     {% if page.page-level == "repopage" %}
         <ul style="font-size: 1em;"  class="actions">
-                <li><a class="logo" href="{{ '#nobanner' | absolute_url }}" ><strong>Home&nbsp;&nbsp;&nbsp;&nbsp;></strong></a></li>
+                <li><a class="logo" href="{{ '#nobanner' | absolute_url }}" ><strong>asNoCode&nbsp;&nbsp;&nbsp;&nbsp;></strong></a></li>
                 <li><a class="logo" href="{{ 'repos' | absolute_url }}" ><strong style="color: #777777">Repos&nbsp;&nbsp;&nbsp;&nbsp;></strong></a></li>
                 <li class="logo"><strong style="color: #aaaaaa">{{ page.short-title }}</strong></li>
             </ul>
