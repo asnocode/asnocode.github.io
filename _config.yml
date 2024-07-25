@@ -5,7 +5,7 @@ tagline: asnocode.com - Cloud & DevOps
 email: cloud@asnocode.com
 description: Welcome to asnocode.com 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.asnocode.com" # the base hostname & protocol for your site
+url: "https://asnocode.github.io" # the base hostname & protocol for your site
 logo: assets/images/favicon.png
 image: assets/images/og-pic.jpg
 
